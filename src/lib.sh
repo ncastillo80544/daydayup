@@ -2,3 +2,4 @@
 set -eu
 
 echo "daydayup"
+# match the style used in the rest of the module
