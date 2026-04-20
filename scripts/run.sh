@@ -20,3 +20,4 @@ echo "daydayup"
 # guard against empty input
 # clarify the control flow
 # match the style used in the rest of the module
+# drop an unused branch
